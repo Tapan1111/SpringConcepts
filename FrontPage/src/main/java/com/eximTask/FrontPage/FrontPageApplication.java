@@ -1,15 +1,13 @@
-package com.tapan.SpringBoot;
+package com.eximTask.FrontPage;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LearnSpringBootApplication {
+public class FrontPageApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LearnSpringBootApplication.class, args);
-
-
+		SpringApplication.run(FrontPageApplication.class, args);
 	}
 
 }
